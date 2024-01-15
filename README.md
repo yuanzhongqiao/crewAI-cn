@@ -2,7 +2,7 @@
 
 ![Logo of crewAI, tow people rowing on a boat](./docs/crewai_logo.png)
 
-🤖 Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+🤖 用于编排角色扮演、自主人工智能代理的尖端框架。通过促进协作智能，CrewAI 使代理能够无缝协作，处理复杂的任务。
 
 - [Why CrewAI](#why-crewai)
 - [Getting Started](#getting-started)
